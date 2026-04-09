@@ -1,0 +1,97 @@
+[11:33:44] [ServerMain/INFO]: [bootstrap] Running Java 21 (OpenJDK 64-Bit Server VM 21.0.10+7-Ubuntu-124.04; Ubuntu null) on Linux 6.8.0-1044-azure (amd64)
+[11:33:44] [ServerMain/INFO]: [bootstrap] Loading Paper 1.21.11-99-main@81b9122 (2026-01-20T19:08:30Z) for Minecraft 1.21.11
+[11:33:44] [ServerMain/INFO]: [PluginInitializerManager] Initializing plugins...
+[11:33:46] [ServerMain/INFO]: [PluginInitializerManager] Initialized 3 plugins
+[11:33:46] [ServerMain/INFO]: [PluginInitializerManager] Bukkit plugins (3):
+ - FastAsyncWorldEdit (2.15.0+59372c5), SkinsRestorer (15.11.1), voicechat (2.6.15)
+[11:33:53] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, profilesHost=https://api.mojang.com, name=PROD]
+[11:33:56] [ServerMain/INFO]: Loaded 1470 recipes
+[11:33:56] [ServerMain/INFO]: Loaded 1584 advancements
+[11:33:56] [ServerMain/INFO]: [ca.spottedleaf.dataconverter.minecraft.datatypes.MCTypeRegistry] Initialising converters for DataConverter...
+[11:33:56] [ServerMain/INFO]: [ca.spottedleaf.dataconverter.minecraft.datatypes.MCTypeRegistry] Finished initialising converters for DataConverter in 524.2ms
+[11:33:56] [Server thread/INFO]: Starting minecraft server version 1.21.11
+[11:33:56] [Server thread/INFO]: Loading properties
+[11:33:56] [Server thread/INFO]: This server is running Paper version 1.21.11-99-main@81b9122 (2026-01-20T19:08:30Z) (Implementing API version 1.21.11-R0.1-SNAPSHOT)
+[11:33:56] [Server thread/INFO]: [spark] This server bundles the spark profiler. For more information please visit https://docs.papermc.io/paper/profiling
+[11:33:56] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[11:33:56] [Server thread/INFO]: Using 4 threads for Netty based IO
+[11:33:57] [Server thread/INFO]: [MoonriseCommon] Paper is using 1 worker threads, 1 I/O threads
+[11:33:58] [Server thread/INFO]: Default game type: SURVIVAL
+[11:33:58] [Server thread/INFO]: Generating keypair
+[11:33:58] [Server thread/INFO]: Starting Minecraft server on *:25565
+[11:33:58] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
+[11:33:58] [Server thread/INFO]: Paper: Using OpenSSL 3.x.x (Linux x86_64) cipher from Velocity.
+[11:33:58] [Server thread/INFO]: [FastAsyncWorldEdit] Loading server plugin FastAsyncWorldEdit v2.15.0+59372c5
+[11:34:00] [Server thread/INFO]: Got request to register class com.sk89q.worldedit.bukkit.BukkitServerInterface with WorldEdit [com.sk89q.worldedit.extension.platform.PlatformManager@337e5196]
+[11:34:00] [Server thread/INFO]: [SkinsRestorer] Loading server plugin SkinsRestorer v15.11.1
+[11:34:00] [Server thread/INFO]: [voicechat] Loading server plugin voicechat v2.6.15
+[11:34:00] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[11:34:00] [Server thread/INFO]: [FastAsyncWorldEdit] Enabling FastAsyncWorldEdit v2.15.0+59372c5
+[11:34:00] [Server thread/INFO]: [com.fastasyncworldedit.core.Fawe] LZ4 Compression Binding loaded successfully
+[11:34:00] [Server thread/INFO]: [com.fastasyncworldedit.core.Fawe] ZSTD Compression Binding loaded successfully
+[11:34:00] [Server thread/INFO]: Registering commands with com.sk89q.worldedit.bukkit.BukkitServerInterface
+[11:34:00] [Server thread/INFO]: WEPIF: Using the Bukkit Permissions API.
+[11:34:00] [Server thread/INFO]: Using com.sk89q.worldedit.bukkit.adapter.impl.fawe.v1_21_11.PaperweightFaweAdapter as the Bukkit adapter
+[11:34:01] [Server thread/INFO]: [SkinsRestorer] Enabling SkinsRestorer v15.11.1
+[11:34:02] [Server thread/INFO]: [SkinsRestorer] Running on Minecraft 1.21.11.
+[11:34:03] [Server thread/INFO]: [SkinsRestorer] Using paper join listener!
+[11:34:03] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[11:34:03] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[11:34:03] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[11:34:03] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[11:34:03] [Server thread/INFO]: Preparing level "world"
+[11:34:03] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
+[11:34:03] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
+[11:34:03] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |   SkinsRestorer  |
+[11:34:03] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |------------------|
+[11:34:03] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |  Standalone Mode |
+[11:34:03] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
+[11:34:03] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
+[11:34:03] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Version: 15.11.1
+[11:34:03] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Commit: 13491f5
+[11:34:03] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     This is the latest version!
+[11:34:03] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
+[11:34:03] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Do you have issues? Read our troubleshooting guide: https://skinsrestorer.net/docs/troubleshooting
+[11:34:03] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Want to support SkinsRestorer? Consider donating: https://skinsrestorer.net/donate
+[11:34:03] [Server thread/INFO]: [ca.spottedleaf.moonrise.common.util.MoonriseConstants] NUMA enable flag is not set; however there is NUMA interaction support for this OS.
+[11:34:03] [Server thread/INFO]: [ca.spottedleaf.moonrise.common.util.MoonriseConstants] Detected 1 NUMA nodes.
+[11:34:04] [Server thread/INFO]: Loading 0 persistent chunks for world 'minecraft:overworld'...
+[11:34:04] [Server thread/INFO]: Preparing spawn area: 100%
+[11:34:04] [Server thread/INFO]: Prepared spawn area in 3 ms
+[11:34:04] [Server thread/INFO]: Loading 0 persistent chunks for world 'minecraft:the_nether'...
+[11:34:04] [Server thread/INFO]: Prepared spawn area in 0 ms
+[11:34:04] [Server thread/INFO]: Loading 0 persistent chunks for world 'minecraft:the_end'...
+[11:34:04] [Server thread/INFO]: Prepared spawn area in 1 ms
+[11:34:04] [Server thread/INFO]: Done preparing level "world" (0.645s)
+[11:34:04] [Server thread/INFO]: [voicechat] Enabling voicechat v2.6.15
+[11:34:04] [Server thread/ERROR]: [voicechat] Failed to parse target Paper version: 1.21.11-R0.1-SNAPSHOT
+[11:34:04] [Server thread/INFO]: [voicechat] Initializing compatibility for version 1.21.11-R0.1
+[11:34:04] [Server thread/INFO]: [voicechat] Compatibility version 20
+[11:34:04] [Server thread/INFO]: [voicechat] Successfully initialized commodore command completion
+[11:34:04] [Server thread/INFO]: [spark] Starting background profiler...
+[11:34:05] [Server thread/INFO]: Running delayed init tasks
+[11:34:05] [Server thread/INFO]: Done (23.312s)! For help, type "help"
+[11:34:05] [Server thread/INFO]: [voicechat] Loading plugins
+[11:34:05] [Server thread/INFO]: [voicechat] Loaded 0 plugin(s)
+[11:34:05] [Server thread/INFO]: [voicechat] Initializing plugins
+[11:34:05] [Server thread/INFO]: [voicechat] Initialized 0 plugin(s)
+[11:34:05] [Server thread/WARN]: [voicechat] Running in offline mode - Voice chat encryption is not secure!
+[11:34:06] [VoiceChatServerThread/INFO]: [voicechat] Voice host is 'other-availability.gl.at.ply.gg'
+[11:34:06] [VoiceChatServerThread/INFO]: [voicechat] Voice chat server started at port 12508
+[11:34:06] [Paper Async Task Handler Thread - 1/INFO]: *** Currently you are 30 build(s) behind ***
+[11:34:06] [Paper Async Task Handler Thread - 1/INFO]: *** It is highly recommended to download the latest build from https://papermc.io/downloads/paper ***
+[11:34:07] [User Authenticator #0/INFO]: UUID of player ExpertDead is 06d082fc-1f22-3659-9cbd-8715295f2739
+[11:34:10] [Server thread/INFO]: ExpertDead joined the game
+[11:34:10] [Server thread/INFO]: ExpertDead[/127.246.130.159:46375] logged in with entity id 63 at ([world]33.22445269514177, 67.58613441340513, 391.675973138254)
+[11:34:11] [Server thread/INFO]: [voicechat] Received secret request of ExpertDead (20)
+[11:34:11] [Server thread/INFO]: [voicechat] Sent secret to ExpertDead
+[11:34:11] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 06d082fc-1f22-3659-9cbd-8715295f2739
+[11:34:12] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 06d082fc-1f22-3659-9cbd-8715295f2739
+[11:34:12] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player ExpertDead (06d082fc-1f22-3659-9cbd-8715295f2739) successfully connected to voice chat
+[11:34:52] [Server thread/INFO]: [ExpertDead: Set own game mode to Creative Mode]
+[11:36:05] [Server thread/INFO]: ExpertDead lost connection: Disconnected
+[11:36:05] [Server thread/INFO]: [voicechat] Disconnecting client ExpertDead
+[11:36:05] [Server thread/INFO]: ExpertDead left the game
+[13:52:10] [Server thread/INFO]: ExpertDead (/127.246.130.159:60523) lost connection: Disconnected
+[13:52:10] [User Authenticator #1/INFO]: UUID of player ExpertDead is 06d082fc-1f22-3659-9cbd-8715295f2739
+[15:12:23] [Server thread/INFO]: [Not Secure] [Server] ming mong
